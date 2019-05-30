@@ -1,0 +1,94 @@
+*{
+	font-family: "UniQAIDAR_SAMAN";
+}
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #f5f5f5;
+	border-top: 4px solid #00aeff;
+	
+}
+.icons{
+	float: right;
+}
+.icons a {
+	display: block;
+}
+.icons a img{
+	width: 50px;
+	padding: 5px;
+	padding-top: 2px;
+	padding-right: 0px;
+}
+.body{
+	margin: 20px auto;
+	background-color: white;
+	height: 1000px;
+	width: 1000px;
+	border: 10px solid #fff;
+	border-radius: 4px;
+	box-shadow: 0px 0px 2px 0.010px #6a6a6a;
+}
+div .div1 {
+	background-image: url(n.jpg);
+	background-size: cover;
+	background-position: top;
+	height: 160px;
+	margin: 10px;
+	box-shadow: 0px 0px 2px 0.010px #6a6a6a; 
+}
+.search{
+	direction: rtl;
+	text-indent: 4px;
+	margin: 6px;
+	width: 250px;
+	height: 30px;
+	border:1.5px solid #00aeff;
+	border-radius: 4px;
+}
+.logo {
+	float: right;
+	
+}
+.logo img{
+	margin: 5px;
+	height: 150;
+	
+}
+.li1{
+	direction: rtl;
+	margin-top: -6px;
+	margin-right: -27px;
+}
+.li1 li{
+	display: inline;
+	list-style:none;
+	
+	
+}
+.li1 li a{
+	text-decoration: none;
+	color: white;
+	background-color: #303f4c;
+	text-align: right;
+	padding: 20px;
+	text-transform: none;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	font-size: 18px;
+	margin: -2.4px;
+	box-shadow: 0px 0px 0.5px 0.05px black;
+}
+.li1 li a:hover{
+	background-color: #fbee1a;
+	color: black;
+}
+.up img{
+	height: 60px;
+	float: right;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+.up img:hover{
+	box-shadow: 0px 0px 2px 0.05px #1a9efb;
+}
